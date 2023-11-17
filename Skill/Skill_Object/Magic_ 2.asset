@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23de4e22ac38f12409ef715147b8bc2a, type: 3}
+  m_Name: Magic_ 2
+  m_EditorClassIdentifier: 
+  skillType: 2
+  skillIcon: {fileID: 970221205, guid: c6183b1150d8bb14f9d97682f5e02c3e, type: 3}
+  SkillName: Astral Form
+  SkillDescription: 
+  AttackModifier: 0
+  MagicModifier: 0
+  DefanceModifier: 0
