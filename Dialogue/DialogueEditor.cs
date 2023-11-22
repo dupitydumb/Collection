@@ -15,7 +15,7 @@ public class DialogueSave : EditorWindow
 
     public static void SaveDialogue(DialogueAssets dialogueAssets)
     {
-        string dialogueJson = JsonUtility.ToJson(dialogueAssets);
+        string dialogueJson = JsonUtility.ToJson(dialogueAssets, true);
         string path = EditorUtility.SaveFilePanelInProject("Save Dialogue", dialogueAssets.name + "Dialogue", "json", "Please save dialogue");
         System.IO.File.WriteAllText(path, dialogueJson);
     }
