@@ -12,6 +12,7 @@ public class SortAlgo
         for (int i = 0; i < arr.Length; i++)
         {
             Console.WriteLine(arr[i]);
+            //Result : 72, 90, 122, 235, 352, 362, 633
         }
     }
     static void BubbleSort(int []arr) 
