@@ -16,3 +16,6 @@ Some reusable scripts I have created
 
 [Unity File Browser](https://github.com/yasirkula/UnitySimpleFileBrowser)
 
+[Unity Outline](https://github.com/Arvtesh/UnityFx.Outline)
+
+[Unity 2D-Component](https://github.com/cmilr/Unity2D-Components/tree/master)
