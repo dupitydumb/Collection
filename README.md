@@ -10,6 +10,8 @@ Some reusable scripts I have created
 
 [Finite State Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine/tree/master)
 
+[hierarchical finite state machine](https://github.com/Inspiaaa/UnityHFSM/tree/master)
+
 [Json But Faster](https://github.com/MessagePack-CSharp/MessagePack-CSharp#unity)
 
 [Unity File Browser](https://github.com/yasirkula/UnitySimpleFileBrowser)
