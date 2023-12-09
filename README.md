@@ -12,3 +12,5 @@ Some reusable scripts I have created
 
 [Json But Faster](https://github.com/MessagePack-CSharp/MessagePack-CSharp#unity)
 
+[Unity File Browser](https://github.com/yasirkula/UnitySimpleFileBrowser)
+
